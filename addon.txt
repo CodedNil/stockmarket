@@ -1,0 +1,8 @@
+"AddonInfo"
+{
+	"name"				"DarkRP Stock Market Addon"
+	"version"			"1"
+	"author_name"		"CodeNil"
+	"info"				"Adds a stock market gui"
+	"override"			"0"
+}
